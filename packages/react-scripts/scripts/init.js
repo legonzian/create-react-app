@@ -92,9 +92,9 @@ module.exports = function(
 
   // Setup the script rules
   appPackage.scripts = {
-    start: 'react-scripts start',
-    build: 'react-scripts build',
-    test: 'react-scripts test --env=jsdom',
+    local: 'react-scripts local',
+    dev: 'react-scripts build',
+    prod: 'react-scripts build -- prod',
     eject: 'react-scripts eject',
   };
 
