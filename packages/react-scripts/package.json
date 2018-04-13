@@ -1,6 +1,6 @@
 {
   "name": "layer2-react-scripts",
-  "version": "1.1.5",
+  "version": "1.1.7",
   "description": "Configuration and scripts for Create React App.",
   "repository": "legonzian/create-react-app",
   "license": "MIT",
@@ -28,7 +28,7 @@
     "babel-eslint": "8.2.2",
     "babel-jest": "22.1.0",
     "babel-loader": "8.0.0-beta.0",
-    "babel-plugin-named-asset-import": "^0.0.0",
+    "babel-plugin-named-asset-import": "0.0.0",
     "babel-preset-react-app": "^3.1.1",
     "case-sensitive-paths-webpack-plugin": "2.1.1",
     "chalk": "2.3.0",
